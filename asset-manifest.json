@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-fetch-api/static/css/main.e7d2257a.css",
+    "main.js": "/react-practice-fetch-api/static/js/main.9608e27f.js",
+    "index.html": "/react-practice-fetch-api/index.html",
+    "main.e7d2257a.css.map": "/react-practice-fetch-api/static/css/main.e7d2257a.css.map",
+    "main.9608e27f.js.map": "/react-practice-fetch-api/static/js/main.9608e27f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d2257a.css",
+    "static/js/main.9608e27f.js"
+  ]
+}
